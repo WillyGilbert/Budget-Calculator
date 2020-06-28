@@ -4,7 +4,7 @@
 
 This program allows the user to keep a budget for their income and expenses. It allows the user to have the current balance at their disposal.
 
-Project page: https://willygilbert.github.io/Trip-Planner/
+Project page: https://willygilbert.github.io/Budget-Calculator/
 
 ## The program is divided into 3 sections:
 
