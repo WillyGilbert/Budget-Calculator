@@ -4,13 +4,15 @@
 
 This program allows the user to keep a budget for their income and expenses. It allows the user to have the current balance at their disposal.
 
+Project page: https://willygilbert.github.io/Trip-Planner/
+
 ## The program is divided into 3 sections:
 
-* The first is the main heading, this includes the total amount available in white letters, as well as the blue and red boxes, for income and expenses respectively. Shows the total amount of each.
+- The first is the main heading, this includes the total amount available in white letters, as well as the blue and red boxes, for income and expenses respectively. Shows the total amount of each.
 
-* The second section consists only of the "Add description" field, the "Value" field, and the validation button. This section allows the user to add a new concept, be it an income or an expense. The application will recognize if it is an expense if the user enters a minus sign "-" in front of the numerical value.
+- The second section consists only of the "Add description" field, the "Value" field, and the validation button. This section allows the user to add a new concept, be it an income or an expense. The application will recognize if it is an expense if the user enters a minus sign "-" in front of the numerical value.
 
-* The third section is made up of two lists, the list on the left represents the income list, and the one on the right the list of expenses. Both lists are made up of the concept and value of income or expense.
+- The third section is made up of two lists, the list on the left represents the income list, and the one on the right the list of expenses. Both lists are made up of the concept and value of income or expense.
 
 ## How to run the program?
 
